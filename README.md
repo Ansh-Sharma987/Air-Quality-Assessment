@@ -1,1 +1,1 @@
-# Air-Quality-Assessment
+This Project is made with the use of ESP32 and MQ-135 sensor, where MQ-135 detects the quality of the Air by detecting harmful gases like Ammonia,sulphur,CO2 etc.All the data from the devices is sent to Firebase Realtime Database and also Blynk for real time data visualization,which is a IoT software platform for connecting devices to the cloud, and we can access the real-time data from the sensors on Blynk Web-Dashboard as well as Blynk App.
